@@ -34,8 +34,8 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.![GCD of 2 nos](https://github.com/abinayasangeetha/GCD-of-two-numbers/assets/119393675/1298ee54-69a2-4fb4-b856-bb3f53af0908)
-png)
+![GCD of 2 nos](https://github.com/abinayasangeetha/GCD-of-two-numbers/assets/119393675/1298ee54-69a2-4fb4-b856-bb3f53af0908)
+
 
 
 ## Result:
